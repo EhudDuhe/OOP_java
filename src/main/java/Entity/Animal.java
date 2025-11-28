@@ -80,4 +80,3 @@ import java.io.Serializable;
             System.out.println(this.nom+ "est entrain de dormir");
         }
     }
-
